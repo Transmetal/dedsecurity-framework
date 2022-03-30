@@ -1,16 +1,7 @@
-<h1 align="center"><img src="./public/logosemfundo.png"></h1>
-
 <h1 align="center">Ded Security Framework</h1>
 
-```bash
-Website:  https://www.dedsecurity.com
-Author:   Simon Kinjo
-Maintenance:  Simon Kinjo
-```
 >Ded Security Framework is a tool aimed at security professionals
 ---
-
-![Screenshot](./public/terminalded.png)
 
 ## Installation
 
@@ -23,7 +14,7 @@ Make sure you have installed the dependencies:
 
 Clone the [source] with `git`:
  ```sh
-   git clone https://github.com/dedsecurity/dedsecurity-framework
+   git clone https://github.com/Transmetal/dedsecurity-framework
    cd dedsecurity-framework
    ```
 
@@ -93,8 +84,3 @@ deno run --allow-read cat.ts test.txt
 python speciport.py dedsecurity.com
 ```
 ---
-
-## Contributing
-Feel free to submitting pull requests to us.
-## License
-[MIT](https://opensource.org/licenses/MIT)
