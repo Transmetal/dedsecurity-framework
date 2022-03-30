@@ -7,7 +7,7 @@
 
 Make sure you have installed the dependencies:
 
-  * `python` 3
+  * `python3` 
   * `git`
   * `deno`
   * `gcc`
